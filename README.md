@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-```python
+---
 class DhruvSoneri:
     def __init__(self):
         self.name       = "Dhruv Soneri"
@@ -28,7 +28,7 @@ class DhruvSoneri:
 
 me = DhruvSoneri()
 me.say_hi()
-```
+
 
 ---
 
